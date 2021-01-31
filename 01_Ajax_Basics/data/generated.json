@@ -1,0 +1,20 @@
+  {
+    "_id": "60166b7952779c1517515e0b",
+    "index": 0,
+    "guid": "aa966f0b-7441-4ebb-95cd-1761fd0437c2",
+    "isActive": false,
+    "balance": "$2,953.28",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "Roman Franklin",
+    "gender": "male",
+    "company": "NETPLODE",
+    "email": "romanfranklin@netplode.com",
+    "phone": "+1 (873) 588-3589",
+    "address": "891 Kermit Place, Chemung, New Mexico, 4327",
+    "about": "Adipisicing ut sint ut enim exercitation et minim pariatur ut deserunt reprehenderit ipsum. Eu culpa elit voluptate incididunt pariatur proident proident eiusmod veniam est. Voluptate do eiusmod ea mollit eu dolor ex laborum. Mollit ad laborum tempor amet fugiat. In dolor elit cillum pariatur tempor aliqua aliquip id dolore ex ullamco. Lorem in ipsum eu duis ullamco velit irure labore officia culpa minim exercitation.\r\n",
+    "registered": "2020-04-18T03:01:11 -06:00",
+    "latitude": 37.283008,
+    "longitude": 6.254002
+  }
