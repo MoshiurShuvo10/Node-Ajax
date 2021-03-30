@@ -9,10 +9,11 @@ import Home from './components/router-components/Home'
 import Contact from './components/router-components/Contact'
 import Profile from './components/router-components/Profile'
 import { Route, Link, BrowserRouter as Router } from '../node_modules/react-router-dom'
+import Message from './components/Message'
 
 const myrouter = (
   <Router>
-    <div>   
+    <div>
     <ul>
       <li><Link to="/">Home</Link></li>
       <li><Link to="/about">About</Link></li>
@@ -28,7 +29,7 @@ const myrouter = (
 );
 
 ReactDOM.render(
-  myrouter,
+  <Message />,
   document.getElementById('root')
 );
 
