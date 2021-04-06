@@ -18,11 +18,11 @@ const buyPen = () => {
 		type:BUY_PEN
 	}
 }
-
+//initial book state 
 const initialBookState = {
 	totalBooks:50
 }
-
+//initial pen state
 const initialPenState = {
 	totalPen:10
 }
